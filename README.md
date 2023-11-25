@@ -1,4 +1,16 @@
-# Astro Starter Kit: Minimal
+# Astro Starter Kit:
+
+## Resources
+https://docs.astro.build/en/getting-started/
+https://docs.astro.build/en/concepts/islands/
+https://analogjs.org/docs/packages/astro-angular/overview
+
+https://www.youtube.com/watch?v=i_s9pRMbBiA&t=8s
+https://www.youtube.com/watch?v=hBzlb5ZxsKo
+
+
+NB: during tests, if I use npm create astro@latest and later add analogjs, it generates errors.
+I resolved the problem using npm create astro@3.0.5(version used in the video). Anyway used versions are the latests(at that moment astro 3.6.0 and angular 17) 
 
 ```sh
 npm create astro@latest -- --template minimal
